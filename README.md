@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Zackmendel
-- 👀 I’m a Civil Engineer turn Data Analyst, Interested in becoming a Solana Dev
-- 💪🏼 I'm a graduate of ALX Data Analytics program
-- 🌱 I’m currently working with @flipsidecrypto and learning with @Turbin3
-- 💞️ I’m looking to collaborate on data related projects
+- 👀 A Civil Engineer turn Data Analyst, Interested in becoming a Solana Dev
+- 💪🏼 A graduate of ALX Data Analytics program
+- 🌱 Currently working with @flipsidecrypto and learning with @Turbin3
+- 💞️ Looking to collaborate on data related projects
 - 📫 You can reach me on X(Twitter) on @zackmendel_
 
 <!---
